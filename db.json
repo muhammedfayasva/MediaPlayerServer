@@ -1,0 +1,98 @@
+{
+  "allVideos": [
+    {
+      "id": "2d4f",
+      "caption": "The Greatest of All Time (GOAT)",
+      "url": "https://static.moviecrow.com/gallery/20240102/223838-goat2.jpg",
+      "link": "https://www.youtube.com/embed/jxCRlebiebw"
+    }
+  ],
+  "categories": [
+    {
+      "id": "affb",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "b51a",
+          "caption": "Vaazha",
+          "url": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/2024/06/01/271188-vaazha.jpg",
+          "link": "https://www.youtube.com/embed/87IzSX3PpuA"
+        },
+        {
+          "id": "3fd9",
+          "caption": "Stree 2",
+          "url": "https://i.ytimg.com/vi/KVnheXywIbY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-IgqqJJfQzlTsgOFkhSWwEyKIGQ%22",
+          "link": "https://www.youtube.com/embed/KVnheXywIbY"
+        },
+        {
+          "id": "19e2",
+          "caption": "Kalki 2898 AD",
+          "url": "https://i.ytimg.com/vi/kQDd1AhGIHk/sddefault.jpg?v=66681582",
+          "link": "https://www.youtube.com/embed/kQDd1AhGIHk"
+        }
+      ]
+    },
+    {
+      "id": "3e0e",
+      "categoryName": "Music",
+      "allVideos": [
+        {
+          "id": "7fb3",
+          "caption": "Love Nwantiti",
+          "url": "https://i.scdn.co/image/ab67616d0000b273ad28ff16d908831ff9150c77",
+          "link": "https://www.youtube.com/embed/D-YDEyuDxWU"
+        },
+        {
+          "id": "ae81",
+          "caption": "Athimanoharam",
+          "url": "https://lyricsraag.com/wp-content/uploads/2024/08/Athimanoharam-Lyrics-English-Vaazha.jpg",
+          "link": "https://www.youtube.com/embed/IKpkXzMxTq0"
+        },
+        {
+          "id": "f2d6",
+          "caption": "Jo Tum Mere Ho",
+          "url": "https://i.scdn.co/image/ab67616d0000b27372a77d038887cdc425f5ee55",
+          "link": "https://www.youtube.com/embed/ilNt2bikxDI"
+        }
+      ]
+    },
+    {
+      "id": "86bb",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "1ac8",
+          "caption": "CSS",
+          "url": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
+          "link": "https://www.youtube.com/embed/1PnVor36_40"
+        }
+      ]
+    },
+    {
+      "id": "b810",
+      "categoryName": "Series",
+      "allVideos": [
+        {
+          "id": "35fa",
+          "caption": "Stranger Things",
+          "url": "https://resizing.flixster.com/0xxuABVVuzJrUT130WFHKE-irEg=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNzUyMTFhOTktZTU4Ni00ODkyLWJlYjQtZTgxYTllZmU2OGM0LmpwZw==",
+          "link": "https://www.youtube.com/embed/aMxjcCEkZ0k"
+        },
+        {
+          "id": "8587",
+          "caption": "Wednesday",
+          "url": "https://m.media-amazon.com/images/S/pv-target-images/29248593e2e2f2b83d9af9cfc65852ff849049b74b9cd9d2c80e1f7a5f1de35a.jpg",
+          "link": "https://www.youtube.com/embed/Di310WS8zLk"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "0c78",
+      "caption": "Vaazha",
+      "link": "https://www.youtube.com/embed/87IzSX3PpuA",
+      "timeStamp": "9/13/2024, 12:40:45 AM GMT+5:30"
+    }
+  ]
+}
